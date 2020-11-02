@@ -1,8 +1,7 @@
-// https://www.interviewcake.com/question/javascript/product-of-other-numbers
-
 /*
 * @author Felipe Pulido
 * @since 2020/11/02
+* Problem URL: https://www.interviewcake.com/question/javascript/product-of-other-numbers
 */
 
 function getProductsGreedy(intArray) {
